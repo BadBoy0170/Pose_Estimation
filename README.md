@@ -8,7 +8,6 @@
 
 [**OpenPose**](https://github.com/CMU-Perceptual-Computing-Lab/openpose) has represented the **first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images**.
 
-It is **authored by** [**Ginés Hidalgo**](https://www.gineshidalgo.com), [**Zhe Cao**](https://people.eecs.berkeley.edu/~zhecao), [**Tomas Simon**](http://www.cs.cmu.edu/~tsimon), [**Shih-En Wei**](https://scholar.google.com/citations?user=sFQD3k4AAAAJ&hl=en), [**Yaadhav Raaj**](https://www.raaj.tech), [**Hanbyul Joo**](https://jhugestar.github.io), **and** [**Yaser Sheikh**](http://www.cs.cmu.edu/~yaser). It is **maintained by** [**Ginés Hidalgo**](https://www.gineshidalgo.com) **and** [**Yaadhav Raaj**](https://www.raaj.tech). OpenPose would not be possible without the [**CMU Panoptic Studio dataset**](http://domedb.perception.cs.cmu.edu). We would also like to thank all the people who [have helped OpenPose in any way](doc/09_authors_and_contributors.md).
 
 
 
@@ -27,42 +26,6 @@ It is **authored by** [**Ginés Hidalgo**](https://www.gineshidalgo.com), [**Zhe
 6. [Send Us Feedback!](#send-us-feedback)
 7. [Citation](#citation)
 8. [License](#license)
-
-
-
-## Results
-### Whole-body (Body, Foot, Face, and Hands) 2D Pose Estimation
-<p align="center">
-    <img src=".github/media/dance_foot.gif" width="300">
-    <img src=".github/media/pose_face.gif" width="300">
-    <img src=".github/media/pose_hands.gif" width="300">
-    <br>
-    <sup>Testing OpenPose: (Left) <a href="https://www.youtube.com/watch?v=2DiQUX11YaY" target="_blank"><i>Crazy Uptown Funk flashmob in Sydney</i></a> video sequence. (Center and right) Authors <a href="https://www.gineshidalgo.com" target="_blank">Ginés Hidalgo</a> and <a href="http://www.cs.cmu.edu/~tsimon" target="_blank">Tomas Simon</a> testing face and hands</sup>
-</p>
-
-### Whole-body 3D Pose Reconstruction and Estimation
-<p align="center">
-    <img src=".github/media/openpose3d.gif" width="360">
-    <br>
-    <sup><a href="https://ziutinyat.github.io/" target="_blank">Tianyi Zhao</a> testing the OpenPose 3D Module</a></sup>
-</p>
-
-### Unity Plugin
-<p align="center">
-    <img src=".github/media/unity_main.png" width="300">
-    <img src=".github/media/unity_body_foot.png" width="300">
-    <img src=".github/media/unity_hand_face.png" width="300">
-    <br>
-    <sup><a href="https://ziutinyat.github.io/" target="_blank">Tianyi Zhao</a> and <a href="https://www.gineshidalgo.com" target="_blank">Ginés Hidalgo</a> testing the <a href="https://github.com/CMU-Perceptual-Computing-Lab/openpose_unity_plugin" target="_blank">OpenPose Unity Plugin</a></sup>
-</p>
-
-### Runtime Analysis
-We show an inference time comparison between the 3 available pose estimation libraries (same hardware and conditions): OpenPose, Alpha-Pose (fast Pytorch version), and Mask R-CNN. The OpenPose runtime is constant, while the runtime of Alpha-Pose and Mask R-CNN grow linearly with the number of people. More details [**here**](https://arxiv.org/abs/1812.08008).
-
-<p align="center">
-    <img src=".github/media/openpose_vs_competition.png" width="360">
-</p>
-
 
 
 ## Features
