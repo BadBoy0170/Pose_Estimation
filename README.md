@@ -10,13 +10,6 @@
 
 
 
-
-
-    <sup>Authors <a href="https://www.gineshidalgo.com" target="_blank">Ginés Hidalgo</a> (left) and <a href="https://jhugestar.github.io" target="_blank">Hanbyul Joo</a> (right) in front of the <a href="http://domedb.perception.cs.cmu.edu" target="_blank">CMU Panoptic Studio</a></sup>
-</p>
-
-
-
 ## Contents
 1. [Results](#results)
 2. [Features](#features)
