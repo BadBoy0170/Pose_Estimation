@@ -1,6 +1,4 @@
-<div align="center">
-    <img src=".github/Logo_main_black.png" width="300">
-</div>
+
 
 -----------------
 
@@ -14,9 +12,7 @@ It is **authored by** [**Ginés Hidalgo**](https://www.gineshidalgo.com), [**Zhe
 
 
 
-<p align="center">
-    <img src=".github/media/pose_face_hands.gif" width="480">
-    <br>
+
     <sup>Authors <a href="https://www.gineshidalgo.com" target="_blank">Ginés Hidalgo</a> (left) and <a href="https://jhugestar.github.io" target="_blank">Hanbyul Joo</a> (right) in front of the <a href="http://domedb.perception.cs.cmu.edu" target="_blank">CMU Panoptic Studio</a></sup>
 </p>
 
