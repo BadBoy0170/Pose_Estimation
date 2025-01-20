@@ -1,7 +1,7 @@
 # Augmented Statups YOLOv7 Pose-Estimation Tutorial
 
 ## 1.	Clone the repo to your working directory using Terminal
-``` git clone  https://github.com/augmentedstartups/pose-estimation-yolov7.git ```
+``` git clone  https://github.com/BadBoy0170/Pose_Estimation.git ```
 
 Or 
 
