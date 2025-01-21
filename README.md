@@ -106,4 +106,3 @@ By following this guide, you will have YOLOv7 Pose Estimation fully set up and r
 
 ---
 
-**Happy Coding!**
