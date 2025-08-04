@@ -1,4 +1,4 @@
-name: yolov7pose
+name: posefusion
 channels:
   - pytorch
   - conda-forge
