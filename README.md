@@ -103,4 +103,3 @@ By following this guide, you will have the multi-modal fusion pose estimation fu
 
 ---
 
-**Happy Coding!**
